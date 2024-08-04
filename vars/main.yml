@@ -1,0 +1,8 @@
+---
+package_list_to_install:
+  - nmap
+  - htop
+  - tree
+
+package_list_to_remove:
+  - some_package_name
